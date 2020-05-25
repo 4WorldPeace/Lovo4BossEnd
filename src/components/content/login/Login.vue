@@ -52,7 +52,6 @@
 			},
 			save() {
 				this.show = !this.show
-				console.log("1111");
 			}
 		}
 	}
